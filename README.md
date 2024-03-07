@@ -1,4 +1,3 @@
-<img width="1507" alt="image" src="https://github.com/alrunn/juice-shop/assets/25745289/cfc5447c-c8fb-4189-8600-c2b51bc8599a"># ![Juice Shop Logo](https://raw.githubusercontent.com/juice-shop/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo_100px.png) OWASP Juice Shop
 
 [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship%20project-48A646.svg)](https://owasp.org/projects/#sec-flagships)
 [![GitHub release](https://img.shields.io/github/release/juice-shop/juice-shop.svg)](https://github.com/juice-shop/juice-shop/releases/latest)
@@ -335,21 +334,21 @@ OWASP Juice Shop and any contributions are Copyright © by Bjoern Kimminich & th
 
 
 
-answer: 'azjTLprd2im6p86RbFrA41L'
+answer: 'azjTLprd2im6p86RbFrA41L21121221'
 
 -
 
-  email: wurstbrot2
+  email: wurstbrot3
 
-  username: wurstbrot2
+  username: wurstbrot3
 
-  password: 'EinBelegtesB************************222
+  password: 'EinBelegtesB************************333
 
-  totpSecret: IFTXE3SPOEYV********************2222
+  totpSecret: IFTXE3SPOEYV********************333
 
   key: timo
 
-  role: 'admin2'
+  role: 'admin3'
 
   securityQuestion:
 
