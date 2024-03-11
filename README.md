@@ -334,21 +334,21 @@ OWASP Juice Shop and any contributions are Copyright © by Bjoern Kimminich & th
 
 
 
-answer: 'azjTLprd2im6p86RbFrA41L33333'
+answer: 'azjTLprd2im6p86RbFrA41L5555'
 
 -
 
-  email: wurstbrot3
+  email: wurstbrot5
 
-  username: wurstbrot3
+  username: wurstbrot5
 
-  password: 'EinBelegtesB************************444
+  password: 'EinBelegtesB************************5
 
-  totpSecret: IFTXE3SPOEYV********************444
+  totpSecret: IFTXE3SPOEYV********************5
 
   key: timo
 
-  role: 'admin4'
+  role: 'admin5'
 
   securityQuestion:
 
