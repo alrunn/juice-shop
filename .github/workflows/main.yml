@@ -14,4 +14,5 @@ jobs:
       - name: Run OX Security Scan to check for vulnerabilities
         with:
           ox_api_key: ${{ secrets.OX_API_KEY }}
+          ox_debug: true
         uses: oxsecurity/ox-security-scan@main
