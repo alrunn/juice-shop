@@ -14,5 +14,5 @@ jobs:
       - name: Run OX Security Scan to check for vulnerabilities
         with:
           ox_api_key: ${{ secrets.OX_API_KEY }}
-          ox_override_blocking: true
+          #ox_override_blocking: true
         uses: oxsecurity/ox-security-scan@main
